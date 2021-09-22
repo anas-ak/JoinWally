@@ -1,0 +1,30 @@
+Steven Mayer: Hey Anas Ahmed, Thank you for the update! 
+
+1. You need a login to a Walmart account? 
+2. Ya I submitted everything but it says they’ll review all our information and it could take 4-6 weeks and then they’ll let us know if we’re approve or not. It was more like just a request to be approved and not an actual approval. So im assuming they have 1000s of people apply and have to review them all.
+3. @Mike VC Will post that in here shortly
+
+Mike VC: The domain will be joinwally.com
+Mike VC: Are you building it on a separate domain then we will just migrate it?
+
+Anas Reaz: 1. Yes to connect and play around with
+Anas Reaz: We can just put a lander there for now, and use this domain so you guys can test it essentially
+
+Anas Reaz: Eg. Test.Joinwally.com could be the url for testing
+Mike VC: that works - so you need access to it then or not yet?
+Anas Reaz: Yes, we need access to it
+Anas Reaz: You can share access to developer@outorigin.com
+Anas Reaz: Add as a user to your domain hosting account eg. Godaddy
+Mike VC: Ok its just parked in godaddy with no hosting/wordpress so want me to set that up too or do you need WP
+
+Anas Reaz: No hosting required
+Mike VC: Ok
+Anas Reaz: We just want to have access to we can point it to the server we are setting up
+Mike VC: Do you know how to give access to one specific domain? Since we have lots in here haha!
+Mike VC: right makes sense
+Anas Reaz: Actually if you are tech savvy, we can just provide you with instructions. You can put the DNS records and point it to the server. Would that work?
+Mike VC: Yep that works perfect
+Anas Reaz: Then we don't need to get access 😅
+
+Mike VC: Ok yep easy enough -
+Anas Reaz: https://media.tenor.com/images/02d6514c550f6b5ab07391d619944220/tenor.gif
